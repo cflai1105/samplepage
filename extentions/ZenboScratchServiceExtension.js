@@ -582,5 +582,5 @@
     };
 
     // Register the extension
-    ScratchExtensions.register('ZenboScratchService', descriptor, ext);
+    ScratchExtensions.register('ZenboScratch', descriptor, ext);
 })({});
