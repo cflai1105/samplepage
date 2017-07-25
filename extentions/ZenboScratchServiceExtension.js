@@ -578,7 +578,7 @@
             "tts_speed_type": ["L1", "L2", "L3", "L4", "L5", "L6", "L7", "L8"],
             "sentence_type": ["語句一", "語句二", "語句三", "語句四", "語句五"],
         },
-        url: 'https://zenboscratchservice.github.io/' // Link to extension documentation, homepage, etc.
+        url: 'https://cflai1105.github.io/' // Link to extension documentation, homepage, etc.
     };
 
     // Register the extension
